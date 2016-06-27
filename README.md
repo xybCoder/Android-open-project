@@ -10,8 +10,11 @@
 ### **1.EventBus     作者 greenrobot**
 
 项目地址：https://github.com/greenrobot/EventBus
+
 原理剖析文档：https://github.com/greenrobot/EventBus#general-usage-and-api
+
 特点：
+
 (1) 支持在不同类型的线程中处理订阅，包括发布所在线程，UI 线程、单一后台线程、异步线程
 (2) 支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播、粘性广播很像啊
 (3) 不是基于 annotations
@@ -24,6 +27,7 @@
 ### **2.Otto     开源组织 Square **
 
 项目地址：https://github.com/square/otto
+
 文档介绍：http://square.github.io/otto/
 
 
@@ -33,14 +37,18 @@
 ### **1.Volley    开源组织 Google**
 
 项目地址：https://android.googlesource.com/platform/frameworks/volley
+
 文档介绍：http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf
+
 特点：
 （1）库小，Google 维护，提供的网络通信库，使得网络请求更简单、更快速
 
 ### **2.okhttp    开源组织 Square**
 
 项目地址：https://github.com/square/okhttp
+
 文档介绍：http://square.github.io/okhttp/
+
 特点：
 (1) 支持 SPDY( http://zh.wikipedia.org/wiki/SPDY )协议。SPDY 协议是 Google 开发的基于传输控制协议的应用层协议，通过压缩，多路复用(一个 TCP 链接传送网页和图片等资源)和优先级来缩短加载时间。
 (2) 如果 SPDY 不可用，利用连接池减少请求延迟
@@ -50,14 +58,18 @@
 ### **3.Retrofit   开源组织 Square**
 
 项目地址：https://github.com/square/retrofit
+
 文档介绍：http://square.github.io/retrofit/
+
 特点：
 （1）配合Rx.xxx系列使用代码更加简洁
 
 ### ** 4.Asynchronous Http Client for Android  **
 
 项目地址：https://github.com/loopj/android-async-http
+
 文档介绍：http://loopj.com/android-async-http/
+
 特点：
 (1)异步 Http 请求
 (2) 在匿名回调中处理请求结果
@@ -73,14 +85,18 @@
 ### **1.Android-Universal-Image-Loader**
 
 项目地址：https://github.com/nostra13/Android-Universal-Image-Loader
+
 原理剖析文档：Android-Universal-Image-Loader
+
 特点：
 (1)目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性
 
 ### **2.picasso   开源组织 Square**
 
 项目地址：https://github.com/square/picasso
+
 文档介绍：http://square.github.io/picasso/
+
 特点：
 (1)可以自动检测 adapter 的重用并取消之前的下载
 (2)图片变换
@@ -91,14 +107,18 @@
 ### **3.Cube ImageLoader  开源组织 阿里巴巴一淘**
 
 项目地址：https://github.com/etao-open-source/cube-sdk
+
 Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk
+
 特点：
 (1)综合了 Android-Universal-Image-Loader 和 square 等组件优点，简单易用，良好的中文文档支持
 
 ### **4.fresco  开源组织  Facebook **
 
 项目地址：https://github.com/facebook/fresco
+
 文档介绍：http://frescolib.org/
+
 特点：
 (1) 两个内存缓存加上磁盘缓存构成了三级缓存
 (2) 支持流式，可以类似网页上模糊渐进式显示图片
