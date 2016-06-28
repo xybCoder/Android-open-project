@@ -184,32 +184,42 @@ Android Sqlite orm 的 db 工具类
 ### **2.RxAndroid     开源组织ReactiveX **
 
 项目地址：https://github.com/ReactiveX/RxAndroid
+
 特点：RxJava的Android拓展
 
 ### ** 3.rx-preferences **
 
 项目地址： https://github.com/f2prateek/rx-preferences
+
 特点：
+
 1. 使SharedPreferences支持RxJava
 
 ### **4.RxBinding   作者JakeWharton**
 项目地址：https://github.com/JakeWharton/RxBinding
+
 特点：
+
 1. 安卓UI控件的RxJava绑定API
 
 ### **5.xBus  作者 mcxiaoke**
+
 项目地址：https://github.com/mcxiaoke/xBus
+
 特点：
+
 1. 简洁的EventBus实现
 
 ### **6.RxLifecycle 作者 trello**
 
 项目地址：https://github.com/trello/RxLifecycle
+
 特点：帮助使用了RxJava的安卓应用控制生命周期
 
 ### **7. sqlbrite  开源组织 square**
 
 项目地址： https://github.com/square/sqlbrite
+
 特点：支持RxJava的sqlite数据库
 
 
@@ -253,7 +263,9 @@ Android Sqlite orm 的 db 工具类
 文档介绍：http://square.github.io/dagger/
 
 ### **4.Dagger2 开源组织Google**
+
 项目地址：https://github.com/google/dagger
+
 官网文档：http://google.github.io/dagger/
 
 ## RecyclerView
@@ -295,6 +307,7 @@ RecyclerView支持各种功能的库
 ### 6.SuperSLiM
 
 RecyclerView 的一款layout manager，支持linear，grid以及staggered之间的互换.并支持sticky特性
+
 项目地址：https://github.com/TonicArtos/SuperSLiM
 效果图：
 ![icon](/images/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d657034364a4b70476138342f564a685831706c575743492f4141414141414141585a592f394131417272563361336b2f73313630302f5375706572534c694d2d44656d6f2d736d616c6c2e676966.gif)
@@ -302,6 +315,7 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 ### 7.recyclerview-animators
 
 各种动画库， 添加 itemanimator 到 RecyclerView items
+
 项目地址：https://github.com/wasabeef/recyclerview-animators
 效果图：
 ![icon](/images/demo2.gif)![icon](/images/demo4.gif)
@@ -309,6 +323,7 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 ### 8.RecyclerViewSwipeDismiss
 
 滑动删除的RecyclerView
+
 项目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss
 效果图：
 ![icon](/images/RecyclerViewSwipeDismiss.gif)
@@ -316,6 +331,7 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 ### 9.Searchable RecyclerView
 
 利用SearchView实现的RecyclerView搜索效果，并且充分利用了RecyclerView中的item animations 动画
+
 项目地址：https://github.com/Wrdlbrnft/Searchable-RecyclerView-Demo
 效果图：
 ![icon](/images/687474703a2f2f692e737461636b2e696d6775722e636f6d2f68747a30592e676966.gif)
@@ -323,6 +339,7 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 ### 10.EasyRecyclerViewSidebar
 
 实现伦敦眼效果的LayoutManager
+
 项目地址：https://github.com/CaMnter/EasyRecyclerViewSidebar
 效果图：
 ![icon](/images/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3030366c504563396777316633307662396d78767a6a333161793239386b30672e6a7067.jpg)![icon](/images/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3030366c50456339677731663330763333717365646a33316179323938776d6e2e6a7067.jpg)
@@ -330,6 +347,7 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 ### 11.ItemTouchHelperDemo
 
 使用ItemTouchHelper实现今日头条 网易新闻 的频道排序、频道移动
+
 项目地址：https://github.com/YoKeyword/ItemTouchHelperDemo
 效果图：
 ![icon](/images/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933373835312d326466353066663938333364643338362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970.gif)
@@ -348,7 +366,9 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 7. 自定义不同的item类型（简单配置、无需重写额外方法）
 8. 设置空布局（比Listview的setEmptyView还要好用！）
 9. 添加拖拽item
+
 项目地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+
 效果图：
 ![icon](/images/chlid_click.gif)![icon](/images/animation.gif)![icon](/images/multiple_item.gif)|
 
@@ -357,8 +377,9 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 ### 2.FlexibleAdapter
 
 一款强大的RecyclerView的adapter，支持ViewHolders动画，拖拽，滑动，取消, 伸缩等
+
 项目地址：https://github.com/davideas/FlexibleAdapter
-![icon](/images/drag_grid_overall.png)![icon](/images/secondary_functionalities.png)
+效果图: ![icon](/images/drag_grid_overall.png)  ![icon](/images/secondary_functionalities.png)
 
 
 ## Animations
@@ -366,7 +387,9 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 ### Android-SpinKit
 
 Android加载动画库
+
 项目地址：https://github.com/ybq/Android-SpinKit
+
 效果图：
 ![icon](/images/screen111.gif)
 
@@ -376,6 +399,7 @@ Android加载动画库
 ### FlowTagLayout
 
 Android流式布局，支持点击、单选、多选等，适合用于产品标签等，用法采用Adapter模式，和ListView、GridView用法一样
+
 项目地址：https://github.com/hanhailong/FlowTag
 效果图：
 
@@ -387,7 +411,9 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 ### 1.PhotoView
 
 支持双击或双指缩放的 ImageView，在 ViewPager 等 Scrolling view 中正常使用，相比上面的 AndroidTouchGallery，不仅支持 ViewPager，同时支持单个 ImageView
+
 项目地址：https://github.com/chrisbanes/PhotoView
+
 原理剖析文档：PhotoView
 
 ## ProgressBar
@@ -395,20 +421,25 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 ### 1.NumberProgressBar
 
 带数字进度的进度条
+
 项目地址：https://github.com/daimajia/NumberProgressBar
+
 效果图：
 ![icon](/images/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966.gif)
 
 ### 2.MaterialLoadingProgressBar
 
 抽取自 SwipeRefreshLayout 的 Material Design 进度指示器
+
 项目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar
+
 效果图：
 ![icon](/images/screen.gif)
 
 ### 3.CircleProgressBar
 
 优点
+
 1. 继承ProgressBar， 不必关心当前进度状态的保存， ProgressBar 已经在onSaveInstanceState（）和 onRestoreInstanceState(Parcelable state)中帮我们写好了。
 2. 定制性很强，可以设置两种风格的进度条，设置进度条的颜色和进度文本的颜色和大小， 由于代码中对于进度文本的格化化是使用的String.format(), 所以进度文本可以根据需要随意定制
 3. 代码优雅，代码注释很全面，格式整齐，可以直接在xml中设置相关的属性。
@@ -421,7 +452,9 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 ###  SwitchButton
 
 状态切换的 Button，类似 iOS，拥有良好的用户界面
+
 项目地址：https://github.com/kyleduo/SwitchButton
+
 效果图：
 ![icon](/images/demo_140.jpg)
 
@@ -430,14 +463,18 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 ### 1.Android-AlertView
 
 仿iOS的AlertViewController 几乎完美还原iOS 的 AlertViewController ，同时支持Alert和ActionSheet模式，每一个细节都是精雕细琢，并把api封装成懒到极致模式，一行代码就可以进行弹窗.
+
 项目地址：https://github.com/saiwu-bigkoo/Android-AlertView
+
 效果图：
 ![icon](/images/alertviewdemo.gif)
 
 ### 2.CanDialog
 
 仿照系统Dialog所写，继承于FrameLayout，添加一些动画，一些显示类型。
+
 项目地址：https://github.com/canyinghao/CanDialog
+
 效果图：
 ![icon](/images/CanDialog.gif)
 
@@ -448,7 +485,9 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 ### GridPasswordView 
 
 模仿支付宝输入密码框
+
 项目地址：https://github.com/Jungerr/GridPasswordView
+
 效果图：
 ![icon](/images/687474703a2f2f6a756e676572722e71696e6975646e2e636f6d2f6772696470617373776f7264766965775f302e322e676966.gif)
 
@@ -466,7 +505,9 @@ ios 风格控件
 ### 2.android-uitableview
 
 ios 风格控件，包括 Button、ListView、TableView
+
 项目地址：https://github.com/Trinea/android-open-project
+
 效果图：
 
 
@@ -477,21 +518,27 @@ ios 风格控件，包括 Button、ListView、TableView
 ### 1.DateTimePicker
 
 日期选择部件(Google Agenda 的样式风格)
+
 项目地址：https://github.com/flavienlaurent/datetimepicker
+
 效果图：
 ![icon](/images/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f6461746574696d657069636b65722f6d61737465722f67726170686963732f696d67312e706e67.png)
 
 ### 2.Week View
 
 日期控件，支持周，天视图，支持自定义样式
+
 项目地址：https://github.com/alamkanak/Android-Week-View
+
 效果图：
 ![icon](/images/screen-shot.png)
 
 ### 3.PickerView
 
 仿 iOS 的 PickerView 控件，有时间选择和选项选择并支持一二三级联动效果，TimePopupWindow 时间选择器，支持年月日时分，年月日，时分等格式；OptionsPopupWindow 选项选择器，支持一，二，三级选项选择，并且可以设置是否联动
+
 项目地址：https://github.com/saiwu-bigkoo/Android-PickerView
+
 效果图：
 ![icon](/images/pickerdemo.gif)
 
@@ -499,7 +546,9 @@ ios 风格控件，包括 Button、ListView、TableView
 
 ### 1.MPAndroidChart
 强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、网状图等；支持图的拖拽缩放；支持 Android 2.2 以上，支持横纵轴缩放，多指缩放，展现动画、高亮、保存到 sdcard、从文件读取图表
+
 项目地址：https://github.com/PhilJay/MPAndroidChart
+
 效果图：
 ![icon](/images/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f7069656368617274312e706e67.png)
 ![icon](/images/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f63616e646c65737469636b63686172742e706e67.png)
@@ -508,26 +557,33 @@ ios 风格控件，包括 Button、ListView、TableView
 ### 2.XCL-Charts
 
 XCL-Charts 基于原生的 Canvas 来绘制各种图表,在设计时，尽量在保证开发效率的同时，给使用者提供足够多的定制化能力。因此使用简便,同时具有相当灵活的定制能力。目前支持 3D/非 3D 柱形图(Bar Chart)、3D/非 3D 饼图(Pie Chart)、堆积图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、圆形图(Circle Chart)等图表。其它特性还包括支持图表缩放、手势移动、动画显示效果、高密度柱形显示、图表分界定制线、多图表的混合显示及同数据源不同类型图表切换等。
+
 项目地址：https://github.com/xcltapestry/XCL-Charts
 
 ### 3.android-lockpattern
 
 Android 的图案密码解锁
 项目地址：https://code.google.com/p/android-lockpattern/
+
 Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo
+
 文档介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse
 
 
 ## NotifyUtil
 
 高仿淘宝，网易新闻，微信，应用宝，环聊等等热门App的通知视图，并且完通知工具类的封装，提供多达8种最常见的App通知接口,支持Android 5.0悬浮式通知样式
+
 项目地址:https://github.com/wenmingvs/NotifyUtil
+
 效果图：
 ![icon](/images/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3639316363313531677731663037677464787935336732306263306830316c312e676966.gif)
 
 ## StepView
 超炫的状态流程
+
 项目地址：https://github.com/baoyachi/StepView
+
 效果图：
 ![icon](/images/vertical_stepview.gif)
 
