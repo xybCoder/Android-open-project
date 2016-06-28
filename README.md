@@ -11,8 +11,8 @@
 
 项目地址：https://github.com/greenrobot/EventBus
 原理剖析文档：https://github.com/greenrobot/EventBus#general-usage-and-api
-特点：
 
+特点：
 1.  支持在不同类型的线程中处理订阅，包括发布所在线程，UI 线程、单一后台线程、异步线程
 2.  支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播、粘性广播很像
 3.  不是基于 annotations
@@ -45,7 +45,6 @@
 文档介绍：http://square.github.io/okhttp/
 
 特点：
-
 1. 支持 SPDY( http://zh.wikipedia.org/wiki/SPDY )协议。SPDY 协议是 Google 开发的基于传输控制协议的应用层协议，通过压缩，多路复用(一个 TCP 链接传送网页和图片等资源)和优先级来缩短加载时间。
 2. 如果 SPDY 不可用，利用连接池减少请求延迟
 3. Gzip 压缩
@@ -63,8 +62,8 @@
 
 项目地址：https://github.com/loopj/android-async-http
 文档介绍：http://loopj.com/android-async-http/
-特点：
 
+特点：
 1. 异步 Http 请求
 2. 在匿名回调中处理请求结果
 3. 在 UI 线程外进行 http 请求
@@ -80,16 +79,16 @@
 
 项目地址：https://github.com/nostra13/Android-Universal-Image-Loader
 原理剖析文档：Android-Universal-Image-Loader
-特点：
 
+特点：
 1. 目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性
 
 ### **2.picasso   开源组织 Square**
 
 项目地址：https://github.com/square/picasso
 文档介绍：http://square.github.io/picasso/
-特点：
 
+特点：
 1. 可以自动检测 adapter 的重用并取消之前的下载
 2. 图片变换
 3. 可以加载本地资源
@@ -100,16 +99,16 @@
 
 项目地址：https://github.com/etao-open-source/cube-sdk
 Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk
-特点：
 
+特点：
 1. 综合了 Android-Universal-Image-Loader 和 square 等组件优点，简单易用，良好的中文文档支持
 
 ### **4.fresco  开源组织  Facebook **
 
 项目地址：https://github.com/facebook/fresco
 文档介绍：http://frescolib.org/
-特点：
 
+特点：
 1. 两个内存缓存加上磁盘缓存构成了三级缓存
 2. 支持流式，可以类似网页上模糊渐进式显示图片
 3. 对多帧动画图片支持更好，如 Gif、WebP
@@ -120,8 +119,8 @@ Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.a
 ### **5.Glide    作者 bumptech**
 
 项目地址：https://github.com/bumptech/glide
-特点：
 
+特点：
 1. GIF 动画的解码
 2. 本地视频剧照的解码
 3. 支持缩略图
@@ -137,8 +136,8 @@ Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.a
 Android Sqlite orm 的 db 工具类
 项目地址：https://github.com/greenrobot/greenDAO
 文档介绍：http://greendao-orm.com/documentation/
-特点：
 
+特点：
 1. 性能佳
 2. 简单易用的 API
 3. 内存小好小
@@ -197,6 +196,7 @@ Android Sqlite orm 的 db 工具类
 项目地址：https://github.com/excilys/androidannotations
 文档介绍：https://github.com/excilys/androidannotations/wiki
 官网网址：http://androidannotations.org/
+
 特点：
 1. 依赖注入：包括 view，extras，系统服务，资源等等
 2. 简单的线程模型，通过 annotation 表示方法运行在 ui 线程还是后台线程
@@ -374,7 +374,6 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 ### 3.CircleProgressBar
 
 优点
-
 1. 继承ProgressBar， 不必关心当前进度状态的保存， ProgressBar 已经在onSaveInstanceState（）和 onRestoreInstanceState(Parcelable state)中帮我们写好了。
 2. 定制性很强，可以设置两种风格的进度条，设置进度条的颜色和进度文本的颜色和大小， 由于代码中对于进度文本的格化化是使用的String.format(), 所以进度文本可以根据需要随意定制
 3. 代码优雅，代码注释很全面，格式整齐，可以直接在xml中设置相关的属性。
