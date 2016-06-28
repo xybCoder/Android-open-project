@@ -10,9 +10,11 @@
 ### **1.EventBus     作者 greenrobot**
 
 项目地址：https://github.com/greenrobot/EventBus
+
 原理剖析文档：https://github.com/greenrobot/EventBus#general-usage-and-api
 
 特点：
+
 1.  支持在不同类型的线程中处理订阅，包括发布所在线程，UI 线程、单一后台线程、异步线程
 2.  支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播、粘性广播很像
 3.  不是基于 annotations
@@ -34,17 +36,21 @@
 ### **1.Volley    开源组织 Google**
 
 项目地址：https://android.googlesource.com/platform/frameworks/volley
+
 文档介绍：http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf
 
 特点：
+
 （1）库小，Google 维护，提供的网络通信库，使得网络请求更简单、更快速
 
 ### **2.okhttp    开源组织 Square**
 
 项目地址：https://github.com/square/okhttp
+
 文档介绍：http://square.github.io/okhttp/
 
 特点：
+
 1. 支持 SPDY( http://zh.wikipedia.org/wiki/SPDY )协议。SPDY 协议是 Google 开发的基于传输控制协议的应用层协议，通过压缩，多路复用(一个 TCP 链接传送网页和图片等资源)和优先级来缩短加载时间。
 2. 如果 SPDY 不可用，利用连接池减少请求延迟
 3. Gzip 压缩
@@ -53,7 +59,9 @@
 ### **3.Retrofit   开源组织 Square**
 
 项目地址：https://github.com/square/retrofit
+
 文档介绍：http://square.github.io/retrofit/
+
 特点：
 
 （1）配合Rx.xxx系列使用代码更加简洁
@@ -61,9 +69,11 @@
 ### ** 4.Asynchronous Http Client for Android  **
 
 项目地址：https://github.com/loopj/android-async-http
+
 文档介绍：http://loopj.com/android-async-http/
 
 特点：
+
 1. 异步 Http 请求
 2. 在匿名回调中处理请求结果
 3. 在 UI 线程外进行 http 请求
@@ -78,6 +88,7 @@
 ### **1.Android-Universal-Image-Loader**
 
 项目地址：https://github.com/nostra13/Android-Universal-Image-Loader
+
 原理剖析文档：Android-Universal-Image-Loader
 
 特点：
@@ -86,9 +97,11 @@
 ### **2.picasso   开源组织 Square**
 
 项目地址：https://github.com/square/picasso
+
 文档介绍：http://square.github.io/picasso/
 
 特点：
+
 1. 可以自动检测 adapter 的重用并取消之前的下载
 2. 图片变换
 3. 可以加载本地资源
@@ -98,6 +111,7 @@
 ### **3.Cube ImageLoader  开源组织 阿里巴巴一淘**
 
 项目地址：https://github.com/etao-open-source/cube-sdk
+
 Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk
 
 特点：
@@ -106,9 +120,11 @@ Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.a
 ### **4.fresco  开源组织  Facebook **
 
 项目地址：https://github.com/facebook/fresco
+
 文档介绍：http://frescolib.org/
 
 特点：
+
 1. 两个内存缓存加上磁盘缓存构成了三级缓存
 2. 支持流式，可以类似网页上模糊渐进式显示图片
 3. 对多帧动画图片支持更好，如 Gif、WebP
@@ -121,6 +137,7 @@ Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.a
 项目地址：https://github.com/bumptech/glide
 
 特点：
+
 1. GIF 动画的解码
 2. 本地视频剧照的解码
 3. 支持缩略图
@@ -133,11 +150,15 @@ Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.a
 ## 数据库 
 
 ### **1.greenDAO  作者greenrobot**
+
 Android Sqlite orm 的 db 工具类
+
 项目地址：https://github.com/greenrobot/greenDAO
+
 文档介绍：http://greendao-orm.com/documentation/
 
 特点：
+
 1. 性能佳
 2. 简单易用的 API
 3. 内存小好小
@@ -147,6 +168,7 @@ Android Sqlite orm 的 db 工具类
 ### **2.ActiveAndroid **
 
 项目地址：https://github.com/pardom/ActiveAndroid
+
 文档介绍：https://github.com/pardom/ActiveAndroid/wiki/_pages
 
 
@@ -160,10 +182,12 @@ Android Sqlite orm 的 db 工具类
 
 
 ### **2.RxAndroid     开源组织ReactiveX **
+
 项目地址：https://github.com/ReactiveX/RxAndroid
 特点：RxJava的Android拓展
 
 ### ** 3.rx-preferences **
+
 项目地址： https://github.com/f2prateek/rx-preferences
 特点：
 1. 使SharedPreferences支持RxJava
@@ -179,10 +203,12 @@ Android Sqlite orm 的 db 工具类
 1. 简洁的EventBus实现
 
 ### **6.RxLifecycle 作者 trello**
+
 项目地址：https://github.com/trello/RxLifecycle
 特点：帮助使用了RxJava的安卓应用控制生命周期
 
 ### **7. sqlbrite  开源组织 square**
+
 项目地址： https://github.com/square/sqlbrite
 特点：支持RxJava的sqlite数据库
 
@@ -194,10 +220,13 @@ Android Sqlite orm 的 db 工具类
 ### **1.AndroidAnnotations(Code Diet)**
 
 项目地址：https://github.com/excilys/androidannotations
+
 文档介绍：https://github.com/excilys/androidannotations/wiki
+
 官网网址：http://androidannotations.org/
 
 特点：
+
 1. 依赖注入：包括 view，extras，系统服务，资源等等
 2. 简单的线程模型，通过 annotation 表示方法运行在 ui 线程还是后台线程
 3. 事件绑定：通过 annotation 表示 view 的响应事件，不用在写内部类
@@ -208,13 +237,19 @@ Android Sqlite orm 的 db 工具类
 ### **2.butterknife  作者JakeWharton**
 
 利用 annotation 帮你快速完成 View 的初始化，减少代码
+
 项目地址：https://github.com/JakeWharton/butterknife
+
 文档介绍：http://jakewharton.github.io/butterknife/
 
 ### **3.Dagger 开源组织square**
+
 依赖注入，适用于 Android 和 Java
+
 项目地址：https://github.com/square/dagger
+
 原理剖析文档：Dagger
+
 文档介绍：http://square.github.io/dagger/
 
 ### **4.Dagger2 开源组织Google**
