@@ -509,17 +509,15 @@ ios 风格控件，包括 Button、ListView、TableView
 
 项目地址：https://github.com/Trinea/android-open-project
 
-<<<<<<< HEAD
+
 ### SlantedTextView
 
 一个倾斜的TextView,适用于标签效果
 
 项目地址：https://github.com/HeZaiJin/SlantedTextView
 
-![icon](/images/screenshot.png)
-=======
 效果图：
->>>>>>> 7c213216aae73839bce1b7c3a01f58771aa8eb6d
+![icon](/images/screenshot.png)
 
 
 
