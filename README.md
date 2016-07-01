@@ -408,14 +408,23 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 ios 风格控件
 
 项目地址：https://github.com/dmacosta/ATableView
+
 效果图：
 ![icon](/images/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067.png)
 
 ### 2.android-uitableview
 
 ios 风格控件，包括 Button、ListView、TableView
+
 项目地址：https://github.com/Trinea/android-open-project
-效果图：
+
+### SlantedTextView
+
+一个倾斜的TextView,适用于标签效果
+
+项目地址：https://github.com/HeZaiJin/SlantedTextView
+
+![icon](/images/screenshot.png)
 
 
 
@@ -492,6 +501,80 @@ Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.l
 
 Material Design Android Library
 项目地址：https://github.com/navasmdc/MaterialDesignLibrary
+
+
+
+## 开发插件
+
+### 1.[GsonFormat](https://plugins.jetbrains.com/plugin/7369?pr=androidstudio)
+
+根据Gson库使用的要求,将JSONObject格式的String 解析成实体
+
+
+### 2.[android-butterknife-zelezny](https://plugins.jetbrains.com/plugin/7369?pr=androidstudio)
+
+配合ButterKnife实现注解，从此不用写findViewById，想着就爽啊。在Activity，Fragment，Adapter中选中布局xml的资源id自动生成butterknife注解。
+
+效果图：
+![icon](/images/)
+
+
+### 3.[Android Parcelable code generator](https://plugins.jetbrains.com/plugin/7332?pr=androidstudio)
+
+JavaBean序列化，快速实现Parcelable接口。
+
+### 4.[Android Methods Count](https://plugins.jetbrains.com/plugin/8076?pr=androidstudio)
+
+显示依赖库中得方法数
+
+### 5.[JsonOnlineViewer](https://plugins.jetbrains.com/plugin/7838?pr=androidstudio)
+
+在Android Studio中请求、调试接口
+
+效果图：
+![icon](/images/screenshot_15113.png)
+
+### 6. [Android Styler](https://plugins.jetbrains.com/plugin/7972?pr=androidstudio)
+
+根据xml自动生成style代码的插件
+
+效果图：
+![icon](/images/screenshot_15340.png)
+![icon](/images/screenshot_15339.png)
+![icon](/images/screenshot_15338.png)
+
+### 7.[SelectorChapek for Android](https://plugins.jetbrains.com/plugin/7298?pr=androidstudio)
+
+通过资源文件命名自动生成Selector文件。
+
+效果图：
+![icon](/images/screenshot_14292.png)
+![icon](/images/screenshot_14291.png)
+![icon](/images/screenshot_14290.png)
+
+### 8.[gradle-retrolambda](https://github.com/evant/gradle-retrolambda)
+在java 6 7中使用 lambda表达式插件
+
+修改编译的jdk为java8:
+
+效果图：
+![icon](/images/20160311101644127)
+
+### 9. [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=)
+
+添加Material主题到你的AS
+
+效果图：
+![icon](/images/screenshot_15722.png)
+![icon](/images/screenshot_15723.png)
+![icon](/images/screenshot_15721.png)
+
+### 10. [CheckStyle-IDEA](https://plugins.jetbrains.com/plugin/1065?pr=)
+
+CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，Javadoc，类设计等方面进行代码规范和风格的检查，你们可以遵从像Google Oracle 的Java 代码指南 ，当然也可以按照自己的规则来设置配置文件，从而有效约束你自己更好地遵循代码编写规范。
+
+
+
 
 
 
