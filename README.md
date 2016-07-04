@@ -471,8 +471,11 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 1. 继承ProgressBar， 不必关心当前进度状态的保存， ProgressBar 已经在onSaveInstanceState（）和 onRestoreInstanceState(Parcelable state)中帮我们写好了。
 2. 定制性很强，可以设置两种风格的进度条，设置进度条的颜色和进度文本的颜色和大小， 由于代码中对于进度文本的格化化是使用的String.format(), 所以进度文本可以根据需要随意定制
 3. 代码优雅，代码注释很全面，格式整齐，可以直接在xml中设置相关的属性。
+4. 
 项目地址：https://github.com/dinuscxj/CircleProgressBar
+
 效果图：
+
 ![icon](/images/CircleProgressBar.gif)
 
 ## Button
@@ -650,6 +653,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.l
 ### 2.MaterialDesignLibrary
 
 Material Design Android Library
+
 项目地址：https://github.com/navasmdc/MaterialDesignLibrary
 
 
