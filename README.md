@@ -24,7 +24,7 @@
 7.  支持根据事件类型订阅
 
 
-### **2.Otto     开源组织 Square **
+###  **2.Otto 开源组织 Square**
 
 项目地址：https://github.com/square/otto
 文档介绍：http://square.github.io/otto/
@@ -43,7 +43,7 @@
 
 （1）库小，Google 维护，提供的网络通信库，使得网络请求更简单、更快速
 
-### **2.okhttp    开源组织 Square**
+### **2.okhttp  开源组织 Square**
 
 项目地址：https://github.com/square/okhttp
 
