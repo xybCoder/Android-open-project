@@ -24,7 +24,7 @@
 7.  支持根据事件类型订阅
 
 
-### **2.Otto     开源组织 Square **
+###  **2.Otto 开源组织 Square**
 
 项目地址：https://github.com/square/otto
 文档介绍：http://square.github.io/otto/
@@ -43,7 +43,7 @@
 
 （1）库小，Google 维护，提供的网络通信库，使得网络请求更简单、更快速
 
-### **2.okhttp    开源组织 Square**
+### **2.okhttp  开源组织 Square**
 
 项目地址：https://github.com/square/okhttp
 
@@ -277,25 +277,33 @@ Android Sqlite orm 的 db 工具类
 3. 联系人索引。
 
 项目地址：https://github.com/jiang111/IndexRecyclerView
+
 效果图：
+
 ![icon](/images/art.gif)
 
 ### 2.RecyclerViewEnhanced
 
 项目地址：https://github.com/nikhilpanju/RecyclerViewEnhanced
+
 效果图：
+
 ![icon](/images/Demo.gif)
 
 ### 3.RecyclerViewUndoSwipe
 
 项目地址：https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
+
 效果图：
+
 ![icon](/images/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966.gif)
 
 ### 4.UltimateRecyclerView
 
 项目地址：https://github.com/cymcsg/UltimateRecyclerView
+
 效果图：
+
 ![icon](/images/687474703a2f2f692e67697068792e636f6d2f704c57484b734564566c734b412e676966.gif)![icon](/images/687474703a2f2f692e67697068792e636f6d2f62765534486357764d68656a6d2e676966.gif)![icon](/images/68747470733a2f2f627974656275636b65742e6f72672f6d61727368616c6368656e2f696d616765732f7261772f343462656231363231323163373139656134303934626437656131633966306364376465346330342f756c74696d61746572656379636c6572766965772f756c74.gif)
 
 ### 5.android-advancedrecyclerview
@@ -309,7 +317,9 @@ RecyclerView支持各种功能的库
 RecyclerView 的一款layout manager，支持linear，grid以及staggered之间的互换.并支持sticky特性
 
 项目地址：https://github.com/TonicArtos/SuperSLiM
+
 效果图：
+
 ![icon](/images/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d657034364a4b70476138342f564a685831706c575743492f4141414141414141585a592f394131417272563361336b2f73313630302f5375706572534c694d2d44656d6f2d736d616c6c2e676966.gif)
 
 ### 7.recyclerview-animators
@@ -317,7 +327,9 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 各种动画库， 添加 itemanimator 到 RecyclerView items
 
 项目地址：https://github.com/wasabeef/recyclerview-animators
+
 效果图：
+
 ![icon](/images/demo2.gif)![icon](/images/demo4.gif)
 
 ### 8.RecyclerViewSwipeDismiss
@@ -325,7 +337,9 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 滑动删除的RecyclerView
 
 项目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss
+
 效果图：
+
 ![icon](/images/RecyclerViewSwipeDismiss.gif)
 
 ### 9.Searchable RecyclerView
@@ -333,7 +347,9 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 利用SearchView实现的RecyclerView搜索效果，并且充分利用了RecyclerView中的item animations 动画
 
 项目地址：https://github.com/Wrdlbrnft/Searchable-RecyclerView-Demo
+
 效果图：
+
 ![icon](/images/687474703a2f2f692e737461636b2e696d6775722e636f6d2f68747a30592e676966.gif)
 
 ### 10.EasyRecyclerViewSidebar
@@ -341,7 +357,9 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 实现伦敦眼效果的LayoutManager
 
 项目地址：https://github.com/CaMnter/EasyRecyclerViewSidebar
+
 效果图：
+
 ![icon](/images/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3030366c504563396777316633307662396d78767a6a333161793239386b30672e6a7067.jpg)![icon](/images/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3030366c50456339677731663330763333717365646a33316179323938776d6e2e6a7067.jpg)
 
 ### 11.ItemTouchHelperDemo
@@ -349,7 +367,9 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 使用ItemTouchHelper实现今日头条 网易新闻 的频道排序、频道移动
 
 项目地址：https://github.com/YoKeyword/ItemTouchHelperDemo
+
 效果图：
+
 ![icon](/images/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933373835312d326466353066663938333364643338362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970.gif)
 
 
@@ -370,6 +390,7 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 项目地址：https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 
 效果图：
+
 ![icon](/images/chlid_click.gif)![icon](/images/animation.gif)![icon](/images/multiple_item.gif)|
 
 
@@ -379,7 +400,10 @@ RecyclerView 的一款layout manager，支持linear，grid以及staggered之间�
 一款强大的RecyclerView的adapter，支持ViewHolders动画，拖拽，滑动，取消, 伸缩等
 
 项目地址：https://github.com/davideas/FlexibleAdapter
-效果图: ![icon](/images/drag_grid_overall.png)  ![icon](/images/secondary_functionalities.png)
+
+效果图: 
+
+![icon](/images/drag_grid_overall.png)  ![icon](/images/secondary_functionalities.png)
 
 
 ## Animations
@@ -391,6 +415,7 @@ Android加载动画库
 项目地址：https://github.com/ybq/Android-SpinKit
 
 效果图：
+
 ![icon](/images/screen111.gif)
 
 
@@ -401,6 +426,7 @@ Android加载动画库
 Android流式布局，支持点击、单选、多选等，适合用于产品标签等，用法采用Adapter模式，和ListView、GridView用法一样
 
 项目地址：https://github.com/hanhailong/FlowTag
+
 效果图：
 
 ![icon](/images/flow_tag.gif)
@@ -425,6 +451,7 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 项目地址：https://github.com/daimajia/NumberProgressBar
 
 效果图：
+
 ![icon](/images/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966.gif)
 
 ### 2.MaterialLoadingProgressBar
@@ -434,6 +461,7 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 项目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar
 
 效果图：
+
 ![icon](/images/screen.gif)
 
 ### 3.CircleProgressBar
@@ -443,8 +471,11 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 1. 继承ProgressBar， 不必关心当前进度状态的保存， ProgressBar 已经在onSaveInstanceState（）和 onRestoreInstanceState(Parcelable state)中帮我们写好了。
 2. 定制性很强，可以设置两种风格的进度条，设置进度条的颜色和进度文本的颜色和大小， 由于代码中对于进度文本的格化化是使用的String.format(), 所以进度文本可以根据需要随意定制
 3. 代码优雅，代码注释很全面，格式整齐，可以直接在xml中设置相关的属性。
+4. 
 项目地址：https://github.com/dinuscxj/CircleProgressBar
+
 效果图：
+
 ![icon](/images/CircleProgressBar.gif)
 
 ## Button
@@ -456,6 +487,7 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 项目地址：https://github.com/kyleduo/SwitchButton
 
 效果图：
+
 ![icon](/images/demo_140.jpg)
 
 ## Dialog
@@ -467,6 +499,7 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 项目地址：https://github.com/saiwu-bigkoo/Android-AlertView
 
 效果图：
+
 ![icon](/images/alertviewdemo.gif)
 
 ### 2.CanDialog
@@ -476,6 +509,7 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 项目地址：https://github.com/canyinghao/CanDialog
 
 效果图：
+
 ![icon](/images/CanDialog.gif)
 
 
@@ -489,6 +523,7 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 项目地址：https://github.com/Jungerr/GridPasswordView
 
 效果图：
+
 ![icon](/images/687474703a2f2f6a756e676572722e71696e6975646e2e636f6d2f6772696470617373776f7264766965775f302e322e676966.gif)
 
 
@@ -501,6 +536,7 @@ ios 风格控件
 项目地址：https://github.com/dmacosta/ATableView
 
 效果图：
+
 ![icon](/images/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067.png)
 
 ### 2.android-uitableview
@@ -517,6 +553,7 @@ ios 风格控件，包括 Button、ListView、TableView
 项目地址：https://github.com/HeZaiJin/SlantedTextView
 
 效果图：
+
 ![icon](/images/screenshot.png)
 
 
@@ -531,6 +568,7 @@ ios 风格控件，包括 Button、ListView、TableView
 项目地址：https://github.com/flavienlaurent/datetimepicker
 
 效果图：
+
 ![icon](/images/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f6461746574696d657069636b65722f6d61737465722f67726170686963732f696d67312e706e67.png)
 
 ### 2.Week View
@@ -540,6 +578,7 @@ ios 风格控件，包括 Button、ListView、TableView
 项目地址：https://github.com/alamkanak/Android-Week-View
 
 效果图：
+
 ![icon](/images/screen-shot.png)
 
 ### 3.PickerView
@@ -549,6 +588,7 @@ ios 风格控件，包括 Button、ListView、TableView
 项目地址：https://github.com/saiwu-bigkoo/Android-PickerView
 
 效果图：
+
 ![icon](/images/pickerdemo.gif)
 
 ## Graph View
@@ -559,7 +599,7 @@ ios 风格控件，包括 Button、ListView、TableView
 项目地址：https://github.com/PhilJay/MPAndroidChart
 
 效果图：
-![icon](/images/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f7069656368617274312e706e67.png)
+
 ![icon](/images/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f63616e646c65737469636b63686172742e706e67.png)
 ![icon](/images/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f63616e646c65737469636b63686172742e706e67.png)
 
@@ -572,6 +612,7 @@ XCL-Charts 基于原生的 Canvas 来绘制各种图表,在设计时，尽量在
 ### 3.android-lockpattern
 
 Android 的图案密码解锁
+
 项目地址：https://code.google.com/p/android-lockpattern/
 
 Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo
@@ -586,6 +627,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.l
 项目地址:https://github.com/wenmingvs/NotifyUtil
 
 效果图：
+
 ![icon](/images/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3639316363313531677731663037677464787935336732306263306830316c312e676966.gif)
 
 ## StepView
@@ -594,6 +636,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.l
 项目地址：https://github.com/baoyachi/StepView
 
 效果图：
+
 ![icon](/images/vertical_stepview.gif)
 
 
@@ -602,12 +645,15 @@ Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.l
 ### 1.FlatUI
 
 项目地址：https://github.com/eluleci/FlatUI
+
 效果图：
+
 ![icon](/images/68747470733a2f2f7261772e6769746875622e636f6d2f656c756c6563692f466c617455492f6d61737465722f73616d706c652d696d616765732f73686f77636173652e706e67.png)
 
 ### 2.MaterialDesignLibrary
 
 Material Design Android Library
+
 项目地址：https://github.com/navasmdc/MaterialDesignLibrary
 
 
@@ -623,10 +669,6 @@ Material Design Android Library
 
 配合ButterKnife实现注解，从此不用写findViewById，想着就爽啊。在Activity，Fragment，Adapter中选中布局xml的资源id自动生成butterknife注解。
 
-效果图：
-![icon](/images/)
-
-
 ### 3.[Android Parcelable code generator](https://plugins.jetbrains.com/plugin/7332?pr=androidstudio)
 
 JavaBean序列化，快速实现Parcelable接口。
@@ -640,6 +682,7 @@ JavaBean序列化，快速实现Parcelable接口。
 在Android Studio中请求、调试接口
 
 效果图：
+
 ![icon](/images/screenshot_15113.png)
 
 ### 6. [Android Styler](https://plugins.jetbrains.com/plugin/7972?pr=androidstudio)
@@ -647,6 +690,7 @@ JavaBean序列化，快速实现Parcelable接口。
 根据xml自动生成style代码的插件
 
 效果图：
+
 ![icon](/images/screenshot_15340.png)
 ![icon](/images/screenshot_15339.png)
 ![icon](/images/screenshot_15338.png)
@@ -656,6 +700,7 @@ JavaBean序列化，快速实现Parcelable接口。
 通过资源文件命名自动生成Selector文件。
 
 效果图：
+
 ![icon](/images/screenshot_14292.png)
 ![icon](/images/screenshot_14291.png)
 ![icon](/images/screenshot_14290.png)
@@ -666,6 +711,7 @@ JavaBean序列化，快速实现Parcelable接口。
 修改编译的jdk为java8:
 
 效果图：
+
 ![icon](/images/20160311101644127)
 
 ### 9. [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=)
@@ -673,6 +719,7 @@ JavaBean序列化，快速实现Parcelable接口。
 添加Material主题到你的AS
 
 效果图：
+
 ![icon](/images/screenshot_15722.png)
 ![icon](/images/screenshot_15723.png)
 ![icon](/images/screenshot_15721.png)
